@@ -1,0 +1,23 @@
+{
+  "class_balance": {
+    "positive_rate": 0.085,
+    "negative_rate": 0.915
+  },
+  "model": {
+    "name": "LogisticRegression (class_weight=balanced)",
+    "recall": 0.8935294117647059,
+    "precision": 0.42644581695676587,
+    "f1": 0.5773470163435956,
+    "roc_auc": 0.9629424783027967,
+    "confusion_matrix": [
+      [
+        16257,
+        2043
+      ],
+      [
+        181,
+        1519
+      ]
+    ]
+  }
+}
